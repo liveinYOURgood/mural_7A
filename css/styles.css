@@ -1,0 +1,1121 @@
+body {
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pro1 {
+  color: #9E1B32;
+  font-weight: bold;
+
+  
+}
+
+.pro2 {
+  color: black;
+  font-weight: bold;
+
+  
+}
+
+.pro3 {
+  color: darkgreen;
+  font-weight: bold;
+  
+}
+
+.footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  color:white;
+  background-color: black;
+  
+  }
+  
+  .footerindex {
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    color:yellow;
+    background-color: BLACK;
+    
+    }
+
+    .footerpicture {
+
+      display: block;
+      height: 60%;
+      width: 60%;
+
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+
+
+    }
+
+
+
+          /*MOBILE VIEW BELOW */
+
+    @media (min-width: 319px) and (max-width: 480px) {
+
+      hr {
+
+        border: solid 4px red;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 80px;
+        margin-bottom: 80px;
+        
+
+
+      }
+
+
+
+    .img-bannerM {
+
+      width: 100%;
+      height: 100%;
+      display: block;
+    
+    }
+    
+    .img-banner {
+    
+    display: none;
+
+    }
+
+    .bodytext2 {
+
+      display: none;
+
+    }
+    
+
+    .JoeNamatholderAL {
+
+      height: 90%;
+      width: 90%;
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+
+      margin-bottom: 40px;
+
+    }
+    
+
+    .namathALQB {
+
+      height: 90%;
+      width: 90%;
+      display: Block;
+      margin-left: auto;
+      margin-bottom: 50px;
+      margin-right: auto;
+    
+      margin-top: 40px;
+    
+    
+    
+    }
+    
+
+    h1 {
+
+      margin-left: 40px;
+      margin-right: 40px;
+
+      color: darkgreen;
+      font-weight: bold;
+
+      font-size: 60px;
+      line-height: 66px;
+      text-align: center;
+
+      margin-top: 50px;
+
+      margin-bottom: 50px;
+
+
+    }
+
+
+    .bodytext {
+
+      margin-left: 40px;
+      margin-right: 40px;
+      margin-bottom: 40px;
+
+      font-size: 45px;
+      line-height: 57px;
+  
+    
+    }
+
+    .picture {
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    
+      margin-top: 20px;
+      margin-bottom: 20px;
+    
+    
+      height: 95%;
+      width: 95%;
+    
+    
+    }
+
+
+
+    .parent1 {
+
+      display: flex;
+      gap: 20px;
+      flex-direction: column;
+
+    }
+
+    .rollTide2jetsLAP {
+
+      display: NONE;
+
+    }
+
+
+    .rollTide2jets {
+
+      height: 90%;
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 40px;
+      margin-bottom: 40px;
+
+      font-size: 45px;
+      line-height: 50px;
+  
+
+    }
+
+    .bodytextINblock {
+
+      height: 90%;
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+
+      font-size: 45px;
+      line-height: 50px;
+
+      }
+
+      .pictureCenter {
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+        margin-top: 40px;
+        margin-bottom: 40px;
+      
+      
+        height: 90%;
+        width: 90%;
+      
+      
+      
+      }
+      
+
+
+
+}
+
+          /*IPAD AND TABLET VIEW BELOW - BILL D. PHONE VIEW HERE */ 
+
+    @media (min-width: 481px) and (max-width: 1200px) {
+
+      hr {
+
+        border: solid 4px red;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 80px;
+        margin-bottom: 80px;
+        
+
+
+      }
+
+
+      .headerTablet {
+
+        margin-left: 40px;
+        color: darkgreen;
+        font-weight: bold;
+
+        margin-bottom: 60px;
+
+      
+      
+      
+      }
+
+      hr {
+
+        border: solid 4px red;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 80px;
+        margin-bottom: 80px;
+        
+
+
+      }
+
+      
+
+
+      .img-bannerM {
+
+        width: 90%;
+        height: 90%;
+        display: block;
+
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 30px;
+
+      
+      }
+      
+      .img-banner {
+      
+      display: none;
+  
+      }
+  
+      .pro2 {
+        color: red;
+        
+      }
+
+      .JoeNamatholderAL {
+
+        height: 90%;
+        width: 90%;
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-bottom: 40px;
+
+
+
+        
+      }
+      
+
+      .namathALQB {
+
+        height: 90%;
+        width: 90%;
+        display: Block;
+        margin-left: 40px;
+        margin-bottom: 50px;
+        margin-right: 40px;
+      
+        margin-top: 40px;
+      
+      
+      
+      }
+      
+
+      h1 {
+
+        margin-left: 40px;
+        margin-right: 40px;
+
+        color: darkgreen;
+        font-weight: bold;
+
+        font-size: 65px;
+        line-height: 75px;
+        text-align: center;
+
+        margin-top: 60px;
+        
+        margin-bottom: 60px;
+
+
+      }
+
+
+      .bodytext {
+
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-bottom: 40px;
+
+        font-size: 45px;
+        line-height: 57px;
+        
+      
+      }
+      
+
+
+    .parent1 {
+
+      display: flex;
+      gap: 20px;
+      flex-direction: column;
+
+    }
+
+    .picture {
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    
+      margin-top: 40px;
+      margin-bottom: 40px;
+    
+    
+      height: 90%;
+      width: 90%;
+    
+    
+    }
+    
+
+    .rollTide2jets {
+
+      height: 100%;
+      width: 100%;
+      display: none;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+
+      padding-right: 45px;
+      padding-left: 45px;
+
+      padding-top: 45px;
+      padding-bottom: 45px;
+
+
+
+      font-size: 50px;
+      line-height: 61px;
+
+      background-color: yellow;
+      text-align: center;
+
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  
+    }
+
+    .rollTide2jetsYellow {
+
+      height: 100%;
+      width: 100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+
+      padding-right: 45px;
+      padding-left: 45px;
+
+      padding-top: 45px;
+      padding-bottom: 45px;
+
+
+
+      font-size: 40px;
+      line-height: 61px;
+
+      background-color: yellow;
+      text-align: center;
+
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  
+    }
+
+    .pictureCenter {
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    
+      margin-top: 40px;
+      margin-bottom: 40px;
+    
+    
+      height: 90%;
+      width: 90%;
+    
+    
+    
+    }
+    
+    
+
+
+    .rollTide2jetsLAP {
+
+      display: NONE;
+
+    }
+
+
+    .bodytextINblock {
+
+      height: 90%;
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+
+      font-size: 50px;
+      line-height: 57px;
+
+      text-align: center;
+
+
+    }
+
+    .bodytext2 {
+
+      display: none;
+
+    }
+
+    .bodytextINblockLeft {
+
+      height: 90%;
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 50px;
+    
+      margin-top: 40px;
+    
+      text-align: left;
+      color: black;
+    
+    
+      padding: 35px 35px 35px 35px;
+    
+      font-size: 45px;
+
+      border: 3pt black solid;
+
+    
+      line-height: 55px;
+    
+    
+    
+    }
+    
+
+
+
+  }
+
+
+
+          /*LAPTOP VIEW BELOW */
+
+
+    @media (min-width: 1201px) and (max-width: 1600px) {
+
+      hr {
+
+        border: solid 4px red;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 80px;
+        margin-bottom: 80px;
+        
+
+
+      }
+
+      .bodytext2 {
+
+        margin-left: 180px;
+        margin-right: 180px;
+        margin-bottom: 40px;
+        font-size: 20px;
+        line-height: 25px;
+
+        background-color: yellow;
+
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
+
+        border-radius: 30px;
+
+
+      }
+
+
+
+.JoeNamatholderAL {
+
+  display: none;
+  
+
+}
+
+.rollTide2jetsLAP {
+
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin-left: 50PX;
+  margin-right: 50px;
+  margin-bottom: 40px;
+
+  font-size: 145%;
+  line-height: 160%;
+
+}
+
+
+
+.img-bannerM {
+
+  display: none;
+
+}
+
+.img-banner {
+
+  width: 100%;
+  height: 100%;
+  display: block;
+  
+}
+
+
+h1 {
+
+  margin-left: 40px;
+  color: darkgreen;
+  font-weight: bold;
+
+}
+
+.headerTablet {
+
+  margin-left: 40px;
+  color: darkgreen;
+  font-weight: bold;
+
+
+
+}
+
+
+
+
+
+.parent1 {
+
+  display: flex;
+  gap: 20px;
+  flex-direction: row;
+
+
+}
+
+.rollTide2jets {
+
+  height: 90%;
+  width: 90%;
+  display: NONE;
+  margin-left: 40px;
+  margin-right: 60px;
+  margin-bottom: 40px;
+
+  margin-top: 40px;
+
+  font-size: 47px;
+
+}
+
+.bodytextINblock {
+
+  height: 30%;
+  width: 30%;
+  display: block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+
+  margin-top: 40px;
+
+
+  font-size: 120%;
+
+  line-height: 135%;
+
+
+
+}
+
+
+.picture {
+
+  display: block;
+  margin-left: 40px;
+  margin-right: 40px;
+
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+
+  height: 60%;
+  width: 60%;
+
+
+
+}
+
+.bodytextINblockLeft {
+
+  height: 30%;
+  width: 30%;
+  display: block;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 50px;
+
+  margin-top: 40px;
+
+  text-align: left;
+  color: black;
+
+  border: 3pt black solid;
+
+  padding: 15px 15px 15px 15px;
+
+  font-size: 120%;
+
+  line-height: 135%;
+
+
+
+}
+
+
+.pictureCenter {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+
+  height: 60%;
+  width: 60%;
+
+
+
+}
+
+
+.namathALQB {
+
+  height: 50%;
+  width: 50%;
+  display: Block;
+  margin-left: 40px;
+  margin-bottom: 50px;
+  margin-right: 40px;
+
+  margin-top: 40px;
+
+
+
+}
+
+.pro1 {
+  color: red;
+  
+}
+
+.pro2 {
+  color: black;
+  
+}
+
+.bodytext {
+
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 40px;
+
+  font-size: 145%;
+
+  line-height: 155%;
+
+  
+
+
+}
+
+.rollTide2jetsYellow {
+
+  height: 100%;
+  width: 100%;
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+
+  padding-right: 45px;
+  padding-left: 45px;
+
+  padding-top: 45px;
+  padding-bottom: 45px;
+
+
+
+  font-size: 50px;
+  line-height: 61px;
+
+  background-color: yellow;
+  text-align: center;
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+
+.headerTablet {
+
+  display: none;
+  
+}
+
+
+
+
+
+}
+
+
+
+      /*DESKTOP VIEW BELOW */
+
+
+    @media (min-width: 1601px)  {
+
+      hr {
+
+        border: solid 4px darkgreen;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 80px;
+        margin-bottom: 80px;
+        
+
+
+      }
+
+
+      .headerTablet {
+
+        display: none;
+
+      }
+
+      .pictureCenter {
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+        margin-top: 40px;
+        margin-bottom: 40px;
+      
+      
+        height: 90%;
+        width: 90%;
+      
+      
+      
+      }
+      
+
+
+      .img-bannerM {
+
+        display: none;
+
+      }
+
+      .img-banner {
+
+        width: 100%;
+        height: 100%;
+        display: block;
+
+      }
+
+      .parent1 {
+
+        display: flex;
+        gap: 20px;
+        flex-direction: row;
+
+      }
+
+      .JoeNamatholderAL {
+
+        display: none;
+        
+      
+      }
+      
+
+      .rollTide2jets {
+
+        height: 30%;
+        width: 30%;
+        display: block;
+        margin-left: auto;
+        margin-right: 20px;
+        margin-bottom: 50px;
+
+        margin-top: 40px;
+
+
+        font-size: 120%;
+
+        line-height: 135%;
+
+
+
+
+      }
+
+      .bodytextINblock {
+
+        height: 30%;
+        width: 30%;
+        display: block;
+        margin-left: auto;
+        margin-right: 40px;
+        margin-bottom: 50px;
+
+        margin-top: 40px;
+
+        text-align: left;
+        color: black;
+
+        border: 3pt black solid;
+
+        padding: 15px 15px 15px 15px;
+
+        font-size: 120%;
+
+        line-height: 135%;
+
+
+
+      }
+
+      .bodytextINblockLeft {
+
+        height: 30%;
+        width: 30%;
+        display: block;
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-bottom: 50px;
+
+        margin-top: 40px;
+
+        text-align: left;
+        color: black;
+
+        border: 3pt black solid;
+
+        padding: 15px 15px 15px 15px;
+
+        font-size: 120%;
+
+        line-height: 135%;
+
+
+
+      }
+
+
+      .rollTide2jetsLAP {
+
+        display: NONE;
+  
+      }
+  
+      .rollTide2jetsYellow {
+
+        height: 100%;
+        width: 100%;
+        display: none;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 40px;
+  
+        padding-right: 45px;
+        padding-left: 45px;
+  
+        padding-top: 45px;
+        padding-bottom: 45px;
+  
+  
+  
+        font-size: 50px;
+        line-height: 61px;
+  
+        background-color: yellow;
+        text-align: center;
+  
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+    
+      }
+  
+  
+
+      .namathALQB {
+
+        height: 50%;
+        width: 50%;
+        display: block;
+        margin-left: 40px;
+        margin-bottom: 50px;
+
+        margin-top: 40px;
+
+
+
+      }
+
+      h1 {
+
+        margin-left: 40px;
+        color: darkgreen;
+        font-weight: bold;
+
+      }
+
+      .picture {
+
+        display: block;
+        margin-left: auto;
+        margin-right: 40px;
+
+        margin-top: 40px;
+        margin-bottom: 40px;
+
+
+        height: 50%;
+        width: 50%;
+
+        flex-wrap: wrap;
+
+
+      }
+
+      .welcome {
+
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+      .bodytext {
+
+        margin-left: 180px;
+        margin-right: 180px;
+        margin-bottom: 40px;
+        font-size: 30px;
+        line-height: 45px;
+
+        background-color: yellow;
+
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
+
+        border-radius: 30px;
+
+
+      }
+
+    
+      .bodytext2 {
+
+        margin-left: 180px;
+        margin-right: 180px;
+        margin-bottom: 40px;
+        font-size: 20px;
+        line-height: 25px;
+
+        background-color: yellow;
+
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
+
+        border-radius: 30px;
+
+
+      }
+
+
+
+      
+
+    }
